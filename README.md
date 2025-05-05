@@ -53,10 +53,9 @@ I'm a self-taught software developer passionate about building scalable solution
 ### 🌐DevOps
 <p>
   
-  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMwAAADACAMAAAB/Pny7AAAAbFBMVEX////dGzL29vbdJzraAADdEiz20NT1y87bABDdFC7wtbneLT/rlJntoqTiWWT98/TcACXbABrof4fbAB/fNUblaXT++vrvrbDaAAjqi4/42t3eMzzzwsbogYTiV1765+nhSFbtnKLmcnvgQEywVax7AAACRklEQVR4nO3cUU/CMBhG4Q47tqHgxiYgIiD8//+oLoQLrQYqq2++nHNFQrLwpF+gjDE3cmYaOTCagVENjGpgVAOjGhjVwKgGRjUwqoFRDYxqYFQDoxoY1cCoBkY1MKqBUQ2MamBUA6MaGNXAqAZGNTDnisPx7pZ1T5PFP2HWrW/yKj91fhB69OuT50dV3nr/B048ZjH1VTZAfh6ticcsV0NQPjXPyTHrl3wgTNZsUmNe66EsWb5NjNltB8R047SYTTfYlGVVtkyLmdwP8lZ26sEQprKEYWXAJMAwZmASYBgzMAkwKmOWl/7yyh923horU9X7yfjyJrM6uPfWwLRvVx5m0wYXWAFTXv/tPXgmQWFlqubx+gNlgUFTwNT7CMyh1RyzehaBmTeiK3MrTOqVWTaBz41jzJiFPoAiTwNGn2oqAo0jTqyuQwfaRb0mftKQDYxqYD5aTwMtI97NNqEDFVGvKf5zJl+VX/NR2xn/7TiriA1rHzsAByac+Y2mKQxj5sD0MWahzK+MKQxj5sD0MWahzK+MKYypMUt+etbS12ZTJzQkA6MaGNX4sckZ+xnQ1A7A/kbT0kUNpi43ycrrX4TshUC2LtGydfGcqcsab5UljKmVMYVhzMAkwDBmYBJgGDNVTOqVMfVHbVN/oTd1cwNbt50wdUMQW7dqca5ofWvkJjo959BZub2RXGBUA6MaGNXAqAZGNTCqgVENjGpgVAOjGhjVwKgGRjUwqoFRDYxqYFQDoxoY1cCoBkY1MKqBUQ2MarYw78RoRrZL9RdHAAAAAElFTkSuQmCC" alt="OpenStack" />
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black" alt="React" />
+  <img src="https://www.google.com/imgres?q=openstack%20logo&imgurl=https%3A%2F%2Fimages.icon-icons.com%2F2699%2FPNG%2F512%2Fopenstack_logo_icon_168924.png&imgrefurl=https%3A%2F%2Ficon-icons.com%2Ffr%2Ficone%2Fopenstack-logo%2F168924&docid=QMQTn-598VVNcM&tbnid=eI0g-X44pneBOM&vet=12ahUKEwjk-_2LgY2NAxXVUaQEHQWnANEQM3oECDwQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwjk-_2LgY2NAxXVUaQEHQWnANEQM3oECDwQAA" alt="OpenStack" />
 
-  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white" alt="Angular" />
+  <img src="" alt="Docker" />
 </p>
 
 
