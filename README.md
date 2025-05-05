@@ -54,7 +54,7 @@ I'm a self-taught software developer passionate about building scalable solution
 <p>
   
   <img src="https://img.shields.io/badge/OpenStack-%23ED1944.svg?style=flat&logo=openstack&logoColor=white" alt="OpenStack" />
-
+<img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black" alt="Linux" />
  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
