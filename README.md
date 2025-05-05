@@ -53,9 +53,9 @@ I'm a self-taught software developer passionate about building scalable solution
 ### 🌐DevOps
 <p>
   
-  <img src="https://www.google.com/imgres?q=openstack%20logo&imgurl=https%3A%2F%2Fimages.icon-icons.com%2F2699%2FPNG%2F512%2Fopenstack_logo_icon_168924.png&imgrefurl=https%3A%2F%2Ficon-icons.com%2Ffr%2Ficone%2Fopenstack-logo%2F168924&docid=QMQTn-598VVNcM&tbnid=eI0g-X44pneBOM&vet=12ahUKEwjk-_2LgY2NAxXVUaQEHQWnANEQM3oECDwQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwjk-_2LgY2NAxXVUaQEHQWnANEQM3oECDwQAA" alt="OpenStack" />
+  <img src="https://img.shields.io/badge/OpenStack-%23ED1944.svg?style=flat&logo=openstack&logoColor=white" alt="OpenStack" />
 
-  <img src="" alt="Docker" />
+ <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 
