@@ -19,10 +19,10 @@ I'm a self-taught software developer passionate about building scalable solution
 
 ### 🌐 Web Development
 <p>
-  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask" alt="Flask" />
+  
   <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=flat&logo=vue.js&logoColor=white" alt="Vue.js" />
+
   <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white" alt="Angular" />
 </p>
 
@@ -30,7 +30,8 @@ I'm a self-taught software developer passionate about building scalable solution
 <p>
   <img src="https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=flat&logo=react" alt="React Native" />
   <img src="https://img.shields.io/badge/Ionic-%233880FF.svg?style=flat&logo=ionic&logoColor=white" alt="Ionic" />
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
+ 
+  
 </p>
 
 ### 📊 Data Analytics
@@ -49,11 +50,7 @@ I'm a self-taught software developer passionate about building scalable solution
   <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
 </p>
 
-### 🤖 Automation Tools
-<p>
-  <img src="https://img.shields.io/badge/Selenium-%2343B02A.svg?style=flat&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/BeautifulSoup-%23FFD43B.svg?style=flat&logo=python&logoColor=black" alt="BeautifulSoup" />
-</p>
+
 </div>
 
 ## 📌 Projects
