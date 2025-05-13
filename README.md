@@ -111,7 +111,7 @@ I'm a self-taught software developer passionate about building scalable solution
 ## 📬 Connect with Me
 - **GitHub**: [FAIZ777777](https://github.com/FAIZ777777)  
 - **Instagram**: [faiz](https://www.instagram.com/faiz_bouziane/)
-- **Website**: [faiz](faizbz,onrender,com)  
+- **Website**: [faiz](faizbz.onrender.com)  
 - **Email**: [faiz](servfaiz@gmail.com)
 - **Telegram**: [@FAIZBz7](https://telegram.me/BouzianeFaiz)
 
