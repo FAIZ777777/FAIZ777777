@@ -10,7 +10,7 @@ I'm a self-taught software developer passionate about building scalable solution
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Passionate+About+Code;Always+Learning;Keep+Calm+and+Code+On" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E¢er=true&vCenter=true&width=435&lines=Passionate+About+Code;Always+Learning;Keep+Calm+and+Code+On" alt="Typing SVG" />
 </div>
 <div align="center">
 
@@ -19,10 +19,8 @@ I'm a self-taught software developer passionate about building scalable solution
 
 ### 🌐 Web Development
 <p>
-  
   <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black" alt="React" />
-
   <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white" alt="Angular" />
 </p>
 
@@ -30,8 +28,6 @@ I'm a self-taught software developer passionate about building scalable solution
 <p>
   <img src="https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=flat&logo=react" alt="React Native" />
   <img src="https://img.shields.io/badge/Ionic-%233880FF.svg?style=flat&logo=ionic&logoColor=white" alt="Ionic" />
- 
-  
 </p>
 
 ### 📊 Data Analytics
@@ -52,12 +48,10 @@ I'm a self-taught software developer passionate about building scalable solution
 
 ### 🌐DevOps
 <p>
-  
   <img src="https://img.shields.io/badge/OpenStack-%23ED1944.svg?style=flat&logo=openstack&logoColor=white" alt="OpenStack" />
-<img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black" alt="Linux" />
- <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white" alt="Docker" />
 </p>
-
 
 </div>
 
@@ -67,38 +61,38 @@ I'm a self-taught software developer passionate about building scalable solution
 <table align="center" style="table-layout: fixed; width: 100%;">
   <!-- First row of projects -->
   <tr>
-    <td style="width: 33%;max-width: 33%; min-widht: 33%; vertical-align: top; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; word-wrap: break-word; white-space: normal;">
-      <h3><a href="https://github.com/murapadev/YoutubeNLP">YoutubeNLP</a></h3>
-      <p>A Streamlit app for analyzing YouTube video comments using NLP techniques.</p>
-      <img style="display: block; margin: 0 auto;" src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python">
+    <td style="width: 33%; max-width: 33%; min-width: 33%; vertical-align: top; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; word-wrap: break-word; white-space: normal;">
+      <h3><a href="#">IAAS Platform</a></h3>
+      <p>A cloud infrastructure platform using OpenStack to create and manage virtual machines for scalable computing.</p>
+      <img style="display: block; margin: 0 auto;" src="https://img.shields.io/badge/OpenStack-%23ED1944.svg?style=flat&logo=openstack&logoColor=white" alt="OpenStack">
     </td>
-    <td style="width: 33%;max-width: 33%; min-widht: 33%; vertical-align: top; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; word-wrap: break-word; white-space: normal;">
-      <h3><a href="https://github.com/murapadev/populpy">Populpy</a></h3>
-      <p>Fetches related searches for a given query from Google Trends, including peak dates and popularity scores.</p>
-      <img style="display: block; margin: 0 auto;" src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python">
+    <td style="width: 33%; max-width: 33%; min-width: 33%; vertical-align: top; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; word-wrap: break-word; white-space: normal;">
+      <h3><a href="#">MOSALA</a></h3>
+      <p>A mobile application built with React Native, designed to streamline task management and collaboration.</p>
+      <img style="display: block; margin: 0 auto;" src="https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=flat&logo=react" alt="React Native">
     </td>
-    <td style="width: 33%; max-width: 33%; min-widht: 33%; vertical-align: top; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; word-wrap: break-word; white-space: normal;">
-      <h3><a href="https://github.com/murapadev/ZTodo">ZTodo</a></h3>
-      <p>A powerful, SQLite-based task management plugin for Oh-My-Zsh featuring persistent storage.</p>
-      <img style="display: block; margin: 0 auto;" src="https://img.shields.io/badge/Shell-%23E34F26.svg?style=flat&logo=gnu-bash&logoColor=white" alt="Shell">
+    <td style="width: 33%; max-width: 33%; min-width: 33%; vertical-align: top; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; word-wrap: break-word; white-space: normal;">
+      <h3><a href="#">KHADMA</a></h3>
+      <p>A React Native mobile app focused on connecting service providers with clients for efficient service delivery.</p>
+      <img style="display: block; margin: 0 auto;" src="https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=flat&logo=react" alt="React Native">
     </td>
   </tr>
   <!-- Second row of projects -->
   <tr>
-    <td style="width: 33%; max-width: 33%; min-widht: 33%; vertical-align: top; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; word-wrap: break-word; white-space: normal;">
-      <h3><a href="https://github.com/murapadev/VsCodex">VsCodex</a> <span style="font-size:0.8em;color:#999;">(Public Archive)</span></h3>
-      <p>A VSCode extension that brings features similar to the OpenAI Playground.</p>
-      <img style="display: block; margin: 0 auto;" src="https://img.shields.io/badge/VSCode_Extension-blue?style=flat&logo=visual-studio-code" alt="VSCode Extension">
+    <td style="width: 33%; max-width: 33%; min-width: 33%; vertical-align: top; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; word-wrap: break-word; white-space: normal;">
+      <h3><a href="#">Marketplace</a></h3>
+      <p>A React Native mobile marketplace app enabling users to buy and sell products seamlessly.</p>
+      <img style="display: block; margin: 0 auto;" src="https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=flat&logo=react" alt="React Native">
     </td>
-    <td style="width: 33%; max-width: 33%; min-widht: 33%; vertical-align: top; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; word-wrap: break-word; white-space: normal;">
-      <h3><a href="https://github.com/murapadev/autofire">AutoFire</a></h3>
-      <p>A script that enables autofire for a key. Enable it, press the key, and leave the computer away!</p>
+    <td style="width: 33%; max-width: 33%; min-width: 33%; vertical-align: top; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; word-wrap: break-word; white-space: normal;">
+      <h3><a href="#">CoinMarketCap Data Analysis</a></h3>
+      <p>A data analysis project leveraging Python to extract and visualize cryptocurrency trends from CoinMarketCap.</p>
       <img style="display: block; margin: 0 auto;" src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python">
     </td>
-    <td style="width: 33%; max-width: 33%; min-widht: 33%; vertical-align: top; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; word-wrap: break-word; white-space: normal;">
-      <h3><a href="https://github.com/murapadev/Simple-Stupid-Todo">Simple-Stupid-Todo</a></h3>
-      <p>A simple, command-line todo application written in Bash. </p>
-      <img style="display: block; margin: 0 auto;" src="https://img.shields.io/badge/Shell-%23E34F26.svg?style=flat&logo=gnu-bash&logoColor=white" alt="Shell">
+    <td style="width: 33%; max-width: 33%; min-width: 33%; vertical-align: top; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; word-wrap: break-word; white-space: normal;">
+      <h3><a href="#">Eurocode Calculator</a></h3>
+      <p>A web application for performing structural calculations based on Eurocode standards.</p>
+      <img style="display: block; margin: 0 auto;" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black" alt="React">
     </td>
   </tr>
 </table>
@@ -129,7 +123,4 @@ I'm a self-taught software developer passionate about building scalable solution
 
 <!-- Fun Gimmicks -->
 
-
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
-
-</div>
