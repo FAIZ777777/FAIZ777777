@@ -109,12 +109,11 @@ I'm a self-taught software developer passionate about building scalable solution
 </div>
 
 ## 📬 Connect with Me
-- **GitHub**: [Murapadev](https://github.com/Murapadev)  
-- **Twitter**: [@Murapadev](https://twitter.com/MurapaDev)  
-- **Instagram**: [@murapadev](https://www.instagram.com/murapadev/)  
-- **Website**: [murapa.me](https://murapa.me)  
-- **Email**: [murapabytes@gmail.com](mailto:murapabytes@gmail.com)
-- **Telegram**: [@murapadev](https://telegram.me/murapadev)
+- **GitHub**: [FAIZ777777](https://github.com/FAIZ777777)  
+- **Instagram**: [faiz](https://www.instagram.com/faiz_bouziane/)
+- **Website**: [faiz](faizbz,onrender,com)  
+- **Email**: [faiz](servfaiz@gmail.com)
+- **Telegram**: [@FAIZBz7](https://telegram.me/BouzianeFaiz)
 
 <div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   <p>Visitor Count</p>
