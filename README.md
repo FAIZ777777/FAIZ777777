@@ -68,9 +68,9 @@ I'm a self-taught software developer passionate about building scalable solution
       <img style="display: block; margin: 0 auto;" src="https://img.shields.io/badge/OpenStack-%23ED1944.svg?style=flat&logo=openstack&logoColor=white" alt="OpenStack">
     </td>
       <td style="width: 33%; max-width: 33%; min-width: 33%; vertical-align: top; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; word-wrap: break-word; white-space: normal;">
-      <h3><a href="#">Implementation of an IaaS Platform
+      <h3><a href="#">Implementation of an SaaS Platform
 with openstack</a></h3>
-      <p>This project deploys a single-node OpenStack environment using DevStack on an Ubuntu system. It sets up core OpenStack services (e.g., Nova, Glance, Keystone) to provide Infrastructure-as-a-Service (IaaS) capabilities, enabling virtual machine management, storage, and networking. The included script automates the installation process, configuring a basic environment for development or testing, accessible via a web dashboard. Ideal for prototyping cloud infrastructure.</p>
+      <p>This project establishes a Software-as-a-Service (SaaS) platform using OpenStack as the underlying IaaS layer on a single Ubuntu node via DevStack. It deploys core OpenStack services (compute, networking, dashboard) and launches a sample web application instance on a private network. The setup enables scalable SaaS application hosting, accessible through OpenStack’s dashboard at http://<HOST_IP>/dashboard (username: admin, password: saaspass). Suitable for testing cloud-based SaaS deployments.</p>
       <img style="display: block; margin: 0 auto;" src="https://img.shields.io/badge/OpenStack-%23ED1944.svg?style=flat&logo=openstack&logoColor=white" alt="OpenStack">
     </td>
     <td style="width: 33%; max-width: 33%; min-width: 33%; vertical-align: top; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; word-wrap: break-word; white-space: normal;">
